@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "FE 이건희"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile/kunhee.png"
   bio              : "잘못된 부분이 있으면 지적해주세요."
   location         : "Republic of Korea"
   email            :  "shine7884@gmail.com"
